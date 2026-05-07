@@ -3,8 +3,8 @@ main = "worker.js"
 compatibility_date = "2026-05-06"
 
 [vars]
-ORIGIN = "https://epicjourneyco.click"
+ORIGIN = "https://crystalfallsventures.click"
 
 [[routes]]
-pattern = "epicjourneyco.click/*"
-zone_name = "epicjourneyco.click"
+pattern = "crystalfallsventures.click/*"
+zone_name = "crystalfallsventures.click"
